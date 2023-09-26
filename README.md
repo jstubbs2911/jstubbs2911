@@ -1,6 +1,5 @@
 - Hello, I’m Jeremiah Stubbs
-- I’m interested in any job position to enhance my skills in programming, data science, and AI.
-- I’m currently learning the fundamentals of python, using python in data science, and SQL.
+- I'm a data analytic who is passionate about data and AI. Below is a repository of some of the work that I did in C++, Python, SQL, Excel, and Tableau. Overtime, this will get updated as I complete more projects. 
 - Send me an email if you have any questions.
 
 <!---
